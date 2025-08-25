@@ -4,8 +4,7 @@ PROJECT DOCUMENTATION
 
 Amazon S3 (Simple Storage Service) is a cloud-based object storage service offered by AWS. It allows users to store and retrieve any amount of data, from anywhere on the web, with industry-leading scalability, data availability, security, and performance. S3 is designed for storing and retrieving any kind of data, including structured, semi-structured, and unstructured data
 
-
-
+#A static site is a website with fixed content that is delivered to a user's browser exactly as it is stored on the server, without any server-side processing or database interaction. It is essentially a collection of pre-built HTML, CSS, and JavaScript files that are served directly to the visitor, resulting in fast loading speeds, enhanced security, and a straightforward, unchanging user experience
 Overview of project
 This project documents the methodologies in using an Amazon S3 to store host a website on the web.
 
