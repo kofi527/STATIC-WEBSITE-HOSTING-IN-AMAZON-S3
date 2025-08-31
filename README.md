@@ -1,5 +1,7 @@
 # 2.----static-website-hosting
  Hosting static website in Amazon s3 service 
+ <img width="640" height="480" alt="aws-s3-logo" src="https://github.com/user-attachments/assets/a1c46cf2-38ee-465f-aacc-b1473efded8d" />
+
 PROJECT DOCUMENTATION
 
 Amazon S3 (Simple Storage Service) is a cloud-based object storage service offered by AWS. It allows users to store and retrieve any amount of data, from anywhere on the web, with industry-leading scalability, data availability, security, and performance. S3 is designed for storing and retrieving any kind of data, including structured, semi-structured, and unstructured data
