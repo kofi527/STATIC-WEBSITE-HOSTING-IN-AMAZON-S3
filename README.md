@@ -1,16 +1,26 @@
-# 2.----static-website-hosting
+**STATIC WEBSITE HOSTING IN AMAZON S3**
+
  Hosting static website in Amazon s3 service 
+ 
  <img width="640" height="480" alt="aws-s3-logo" src="https://github.com/user-attachments/assets/a1c46cf2-38ee-465f-aacc-b1473efded8d" />
 
-PROJECT DOCUMENTATION
 
-Amazon S3 (Simple Storage Service) is a cloud-based object storage service offered by AWS. It allows users to store and retrieve any amount of data, from anywhere on the web, with industry-leading scalability, data availability, security, and performance. S3 is designed for storing and retrieving any kind of data, including structured, semi-structured, and unstructured data
+**Overview of project**
+ --
 
-#A static site is a website with fixed content that is delivered to a user's browser exactly as it is stored on the server, without any server-side processing or database interaction. It is essentially a collection of pre-built HTML, CSS, and JavaScript files that are served directly to the visitor, resulting in fast loading speeds, enhanced security, and a straightforward, unchanging user experience
-Overview of project
 This project documents the methodologies in using an Amazon S3 to store host a website on the web.
 
-Tools /AWS services used
+
+- Amazon S3 (Simple Storage Service) is a cloud-based object storage service offered by AWS. 
+
+- It allows users to store and retrieve any amount of data, from anywhere on the web, with industry-leading scalability, data availability, security, and performance. S3 is designed for storing and retrieving any kind of data, including              structured, semi-structured, and unstructured data
+
+- A static site is a website with fixed content that is delivered to a user's browser exactly as it is stored on the server, without any server-side processing or database interaction. 
+
+- It is essentially a collection of pre-built HTML, CSS, and JavaScript files that are served directly to the visitor, resulting in fast loading speeds, enhanced security, and a straightforward, unchanging user experience
+
+**Tools /AWS services used**
+ --
 Amazon s3
 
 PHASE 1 : Creation of bucket
@@ -30,21 +40,11 @@ NB: with s3 there are no management fees and yo only pay for what you use. Price
 4.	We make sure to uncheck the mark to unblock all public access to this bucket
  ![image](https://github.com/user-attachments/assets/e8da2e79-7720-45cb-b41e-a57abc23d6fb)
 
-
-
-
-
-
-
 5.	Creation of an s3 bucket
  ![image](https://github.com/user-attachments/assets/6342c8c7-3881-4133-829b-0c6d34d145ad)
 
 6.	Upload all files that are needed for the hosting of t he website
 ![image](https://github.com/user-attachments/assets/bc7207b1-fa07-44f0-a3b0-a1531f2b7290)
-
-
- 
-
 
 7.	We are to enable static website hosting
  
