@@ -74,10 +74,6 @@ NB: with s3 there are no management fees and yo only pay for what you use. Price
 14.	Successfully made it public
  ![image](https://github.com/user-attachments/assets/59ecf7ba-95e9-4d71-afba-c5153feec885)
 
-
-15.	Successfully made it public
-    ![image](https://github.com/user-attachments/assets/76382235-dec4-47ef-9660-5b95466dbe87)
-
  
 
 
